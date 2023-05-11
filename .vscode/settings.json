@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c"
+    },
+    "cSpell.words": [
+        "DOUBLEBUFFER",
+        "MAINMENU",
+        "MULTISAMPLE",
+        "GLSizei"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
